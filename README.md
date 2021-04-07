@@ -11,7 +11,7 @@
 const Thainá = {
     pronouns: "She" | "Her",
     code: ["Javascript", "C", "Java"],
-    askMeAbout: ["tech","music","philosophy","psychology","yoga", "surf","travel"],
+    askMeAbout: ["tech","music","series","yoga","surf","travel","philosophy","psychology"],
     technologies: {
         frontEnd: {
             js: ["React", "Typescript"],
