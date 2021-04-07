@@ -20,7 +20,6 @@ const Thainá = {
         backEnd: {
             js: ["node", "express"],
             java: ["hibernate","JPA"]
-            C#:[".net core"]
         },
         databases: ["MySql"],
         misc: ["Firebase"]
