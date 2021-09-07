@@ -19,9 +19,9 @@ const Thainá = {
         },
         backEnd: {
             js: ["node", "express"],
-            java: ["hibernate","JPA"]
+            java: ["Spring","hibernate","JPA"]
         },
-        databases: ["MySql"],
+        databases: ["MySql", "Postgress"],
         misc: ["Firebase"]
     },
 };
