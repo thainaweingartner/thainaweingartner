@@ -14,7 +14,7 @@ const Thainá = {
     askMeAbout: ["tech","music","series","yoga","surf","travel","philosophy","psychology"],
     technologies: {
         frontEnd: {
-            js: ["React", "Typescript"],
+            js: ["React", "Angular", "Typescript"],
             css: ["Material_Ui", "Styled_Components", "Bootstrap"]
         },
         backEnd: {
