@@ -15,7 +15,7 @@ const Thainá = {
     technologies: {
         frontEnd: {
             js: ["React", "Angular", "Typescript"],
-            css: ["Material_Ui", "Styled_Components", "Bootstrap"]
+            css: ["Material_Ui", "Styled_Components", "Bootstrap", "Sass]
         },
         backEnd: {
             js: ["node", "express"],
