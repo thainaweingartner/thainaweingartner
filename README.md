@@ -1,6 +1,6 @@
 <h2> Hello, I'm Thainá Weingartner!</h2>
 
-<p><em>System Analysis and Development student at <a href="https://uniamerica.br/boulevard/graduacao/analise-e-desenvolvimento-de-sistemas">UniAmérica</a> and Designer graduated at UFRN</br> 
+<p><em>Brazilian Software Developer living in Sweden and also an UI Designer</br> 
 </em></p>
 
 [![Linkedin: Thainá Weingartner](https://img.shields.io/badge/thaina-weingartner-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaina-weingartner/)](https://www.linkedin.com/in/thainachagas/)
@@ -14,7 +14,7 @@ const Thainá = {
     askMeAbout: ["tech","music","series","yoga","surf","travel","philosophy","psychology"],
     technologies: {
         frontEnd: {
-            js: ["React", "Angular", "Typescript"],
+            js: ["Angular", "React", "Typescript"],
             css: ["Material_Ui", "Styled_Components", "Bootstrap", "Sass]
         },
         backEnd: {
