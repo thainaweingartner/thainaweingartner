@@ -1,6 +1,6 @@
 <h2> Hello, I'm Thainá Weingartner!</h2>
 
-<p><em>Brazilian Software Developer living in Sweden and also an UI Designer</br> 
+<p><em>Brazilian Software Developer living in Sweden and also an UI/UX Designer</br> 
 </em></p>
 
 [![Linkedin: Thainá Weingartner](https://img.shields.io/badge/thaina-weingartner-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaina-weingartner/)](https://www.linkedin.com/in/thainachagas/)
